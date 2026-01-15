@@ -1,10 +1,6 @@
 # AIGC
 AIGC-Project
 
-AIGC learning 
-<<<<<<< HEAD
+AIGC learning
 lr=0.01
-=======
-lr=0.1
->>>>>>> csy
 
